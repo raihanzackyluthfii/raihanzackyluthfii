@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m a student majoring in Information Systems at one of the universities in Medan, North Sumatra.<br>📚 As a student, I often work on projects related to system development such as printing services, e-commerce, and management systems.<br>🌱 Currently, I’m focusing on learning Web Development and Database Design to sharpen my skills and prepare for real-world projects.<br>🚀 I have a strong interest in System Development, Data, and Open Source, and I enjoy experimenting with new technologies that can bring ideas to life.<br>🎮 Outside of coding, I love playing retro games — especially Pokémon and exploring classic consoles like the NDS.
+💻 I’m a student majoring in Information Systems at one of the universities in Medan, North Sumatra.<br>📚 As a student, I often work on projects related to system development such as printing services, e-commerce, and management systems.<br>🌱 Currently, I’m focusing on learning Web Development and Database Design to sharpen my skills and prepare for real-world projects.<br>🚀 I have a strong interest in System Development, Data, and Open Source, and I enjoy experimenting with new technologies that can bring ideas to life.<br>🎮 Outside of coding, I love playing retro games — especially Pokémon and exploring classic consoles like the GBA and NDS.
 
 
 ## 🌐 Socials:
